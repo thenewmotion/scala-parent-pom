@@ -155,6 +155,10 @@
                             <arg>-unchecked</arg>
                             <arg>-deprecation</arg>
                         </args>
+                        <jvmArgs>
+                            <jvmArg>-Xms256m</jvmArg>
+                            <jvmArg>-Xmx2048m</jvmArg>
+                        </jvmArgs>
                         <charset>${project.build.sourceEncoding}</charset>
                     </configuration>
                     <executions>
