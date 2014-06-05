@@ -38,7 +38,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
         <scala.version>2.10</scala.version>
-        <scala.lang.version>2.10.3</scala.lang.version>
+        <scala.lang.version>2.10.4</scala.lang.version>
     </properties>
 
     <scm>
