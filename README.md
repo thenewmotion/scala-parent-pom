@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td>Scala </td>
-    <td>2.10.3</td>
+    <td>2.10.4</td>
   </tr>
   <tr>
     <td>Specs2 </td>
