@@ -42,9 +42,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/t3hnar/scala-parent-pom</url>
-        <connection>scm:git:ssh://git@github.com/t3hnar/scala-parent-pom</connection>
-        <developerConnection>scm:git:ssh://git@github.com/t3hnar/scala-parent-pom</developerConnection>
+        <url>https://github.com/thenewmotion/scala-parent-pom</url>
+        <connection>scm:git:ssh://git@github.com/thenewmotion/scala-parent-pom</connection>
+        <developerConnection>scm:git:ssh://git@github.com/thenewmotion/scala-parent-pom</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
