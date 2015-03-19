@@ -9,7 +9,7 @@
         <artifactId>github-parent-pom</artifactId>
         <version>1.8</version>
     </parent>
-    <artifactId>scala-parent-pom_2.10</artifactId>
+    <artifactId>scala-parent-pom_2.11</artifactId>
     <version>2.10-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Scala Parent Pom</name>
@@ -31,8 +31,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
-        <scala.version>2.10</scala.version>
-        <scala.lang.version>2.10.4</scala.lang.version>
+        <scala.version>2.11</scala.version>
+        <scala.lang.version>2.11.6</scala.lang.version>
     </properties>
     <scm>
         <url>https://github.com/thenewmotion/scala-parent-pom</url>
