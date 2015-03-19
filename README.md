@@ -1,4 +1,4 @@
-# Parent pom for Scala 2.10 projects
+# Parent pom for Scala 2.11 projects
 
 ## Setup
 
@@ -15,7 +15,7 @@
     ```xml
     <dependency>
         <groupId>com.thenewmotion</groupId>
-        <artifactId>scala-parent-pom_2.10</artifactId>
-        <version>2.6</version>
+        <artifactId>scala-parent-pom_2.11</artifactId>
+        <version>2.10</version>
     </dependency>
     ```
